@@ -17,6 +17,13 @@ Key Features:
 8.Content Recommendations: Get personalized content recommendations based on your viewing preferences and trends within the dataset.
 
 With this Netflix Media Insights Dashboard, you can gain a deeper understanding of Netflix's vast content ecosystem, enabling data-driven decisions for content creators, marketers, and anyone interested in the world of streaming entertainment. Start exploring and uncover the stories behind the data that shape the future of entertainment on Netflix.
+
 2. ODI
+
 3. T20
+
 4. Test
+
+5. Prime
+
+6. Spotify
